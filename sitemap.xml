@@ -9,82 +9,122 @@
 
 <url>
   <loc>https://cripto.tools/</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://cripto.tools/index.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/dex.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/dex.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/dex-aggregator.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/dex-aggregator.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/bridge.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/derivatives.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/lending-borrowing.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/bridge.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/insurance.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/lending-borrowing.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/yield-farming.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/insurance.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/portfolio-managers.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/yield-farming.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/utilities.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/asset-management.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/nft-marketplace.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/utilities.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/nft-tools.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/airdrops.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/monitoring.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/nft-marketplace.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/analytics.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/nft-tools.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/news.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/dao-frameworks.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cripto.tools/lightning-network.html</loc>
-  <lastmod>2022-02-28T12:21:41+00:00</lastmod>
+  <loc>https://cripto.tools/pages/dao-governance.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cripto.tools/pages/dao-treasury.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cripto.tools/pages/dao-contribution.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cripto.tools/pages/dao-compensation.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cripto.tools/pages/dao-access.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cripto.tools/pages/monitoring.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cripto.tools/pages/analytics.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cripto.tools/pages/news.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cripto.tools/pages/lightning-network.html</loc>
+  <lastmod>2022-03-29T22:20:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
